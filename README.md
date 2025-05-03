@@ -2,7 +2,7 @@
 
 I'm Lin Gash, a passionate software developer. Welcome to my GitHub profile!
 
-Skills: JS / HTML / CSS / REACT / Node Js / React Native / Mysql / Redis / Cocos Creator / Digital Ocean 
+Skills: JS / TS / REACT / Node Js / Java / Solidity / React Native / Capacitor / Mysql / Redis / Cocos Creator / Digital Ocean 
 
 ## About Me
 
